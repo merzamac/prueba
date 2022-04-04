@@ -10,3 +10,4 @@ aquí vamos a editar nuestro footer
 segimos editando nuestro footer
 
 _________________________
+fin del archivo
