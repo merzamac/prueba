@@ -1,6 +1,8 @@
 _________________________
         HEAD
 este es nuestra cabecera. aquí vamos a editar
+estamos trabajando con nuestro head.
+seguimos editando 
 _________________________
         FOOTER
 
