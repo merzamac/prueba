@@ -1,6 +1,9 @@
 _________________________
         HEAD
 este es nuestra cabecera. aquí vamos a editar
+estamos trabajando con nuestro head.
+seguimos editando 
+ultima edicion del head
 _________________________
         FOOTER
 aquí vamos a editar nuestro footer
@@ -8,3 +11,5 @@ segimos editando nuestro footer
 edicion rapida
 
 _________________________
+fin del archivo
+una modificacion 
