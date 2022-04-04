@@ -4,4 +4,6 @@ este es nuestra cabecera. aquí vamos a editar
 _________________________
         FOOTER
 aquí vamos a editar nuestro footer
+segimos editando nuestro footer
+
 _________________________
