@@ -3,6 +3,7 @@ _________________________
 este es nuestra cabecera. aquí vamos a editar
 estamos trabajando con nuestro head.
 seguimos editando 
+ultima edicion del head
 _________________________
         FOOTER
 
